@@ -3,8 +3,8 @@
 Display different kind of graphs using `bokeh` library with some static data.
 Using `pandas` to reading data from `bokeh`'s official repository.
 
-###bokeh.sampledata
-The sampledata module can be used to download data sets used in Bokeh examples. Which we have used here.
+### bokeh.sampledata  
+The **sampledata** module can be used to download data sets used in Bokeh examples. Which we have used here.
 The simplest way to download the data is to use the execute the command line program:
 
 > bokeh sampledata  
